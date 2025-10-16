@@ -1,0 +1,16 @@
+POST /index.php HTTP/1.1
+Host: 192.168.56.20
+Content-Length: 34
+Cache-Control: max-age=0
+Accept-Language: fr-FR,fr;q=0.9
+Origin: http://192.168.56.20
+Content-Type: application/x-www-form-urlencoded
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.140 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://192.168.56.20/index.php
+Accept-Encoding: gzip, deflate, br
+Cookie: PHPSESSID=lcd3bpas2mmq2jo4u6f2c547v0
+Connection: keep-alive
+
+search=*&submit=Search
